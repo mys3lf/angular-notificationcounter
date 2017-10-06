@@ -1,0 +1,25 @@
+{
+  "name": "angularjs-notificationcounter",
+  "description": "Small service to count notifications",
+  "version": "0.0.3",
+  "author": "Matthäus Schmedding <ms@7pkonzepte.de>",
+  "license": "MIT",
+  "homepage": "http://7pkonzepte.de/",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+    "keywords": [
+    "angular",
+    "module",
+    "notification",
+    "counter"
+  ],
+  "license": "MIT",
+  "main": "notifcationcounter.js",
+  "scripts": {},
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mys3lf/angular-notificationcounter"
+  }
+}
